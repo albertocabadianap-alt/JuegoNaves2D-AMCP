@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Juego de Naves"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/etNombre_AMCP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Introduce tu nombre"
+        android:inputType="textPersonName"/>
+
+    <RadioGroup
+        android:id="@+id/rgDificultad_AMCP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp">
+
+        <RadioButton
+            android:id="@+id/rbFacil_AMCP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fácil"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/rbDificil_AMCP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Difícil"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnJugar_AMCP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jugar"
+        android:layout_marginTop="32dp"/>
+</LinearLayout>
