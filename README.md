@@ -2,7 +2,7 @@
 
 Videojuego 2D desarrollado como proyecto académico utilizando **Java y Android Studio**.
 
-El jugador controla una nave situada en el lado derecho de la pantalla y debe evitar o destruir las naves enemigas que se desplazan desde el lado izquierdo.
+El jugador controla una nave situada en el lado derecho de la pantalla y debe evitar las naves enemigas que se desplazan desde el lado izquierdo.
 
 ## 🎮 Funcionalidades
 
@@ -47,6 +47,14 @@ El proyecto también incluye una clase específica para gestionar la música de 
 
 ![Pantalla de Game Over](screenshots/gameover.png)
 
+## 🎥 Vídeo demostrativo
+
+Haz clic en la siguiente imagen para ver una demostración del funcionamiento del videojuego:
+
+[![Ver demostración del Juego de Naves](screenshots/partida.png)](https://1drv.ms/v/c/A4B033DFA2F8C560/IQB5jJJES14BRIR4uPKfvKPUAYWyXzU7DjufCWqNRIlSFJY?e=EcEpeC)
+
+➡️ [Abrir vídeo demostrativo en OneDrive](https://1drv.ms/v/c/A4B033DFA2F8C560/IQB5jJJES14BRIR4uPKfvKPUAYWyXzU7DjufCWqNRIlSFJY?e=EcEpeC)
+
 ## ▶️ Cómo ejecutar el proyecto
 
 1. Clonar o descargar este repositorio.
@@ -63,4 +71,6 @@ Proyecto desarrollado durante el ciclo de **Desarrollo de Aplicaciones Multiplat
 
 **Alberto Cabadiana**
 
-[LinkedIn](https://www.linkedin.com/in/alberto-cabadiana-b298212a7)
+- [LinkedIn](https://www.linkedin.com/in/alberto-cabadiana-b298212a7)
+- [Perfil de GitHub](https://github.com/albertocabadianap-alt)
+- Barcelona, España
