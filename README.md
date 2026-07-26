@@ -1,6 +1,6 @@
 # Juego de Naves 2D — Android 🚀
 
-Videojuego 2D desarrollado como proyecto académico utilizando Java y Android Studio.
+Videojuego 2D desarrollado como proyecto académico utilizando **Java y Android Studio**.
 
 El jugador controla una nave situada en el lado derecho de la pantalla y debe evitar o destruir las naves enemigas que se desplazan desde el lado izquierdo.
 
@@ -27,11 +27,25 @@ El jugador controla una nave situada en el lado derecho de la pantalla y debe ev
 
 ## ⚙️ Funcionamiento técnico
 
-El juego utiliza `SurfaceView` para dibujar y actualizar los elementos gráficos en pantalla.
+El juego utiliza `SurfaceView` para dibujar y actualizar continuamente los elementos gráficos en pantalla.
 
-La lógica principal se ejecuta mediante un hilo independiente que controla el ciclo de juego, el movimiento de los objetos, las colisiones, la puntuación y la actualización continua de la interfaz.
+La lógica principal se ejecuta mediante un hilo independiente que controla el ciclo de juego, el movimiento de los objetos, la detección de colisiones, la puntuación y la actualización de la interfaz.
 
-El proyecto también incluye una clase específica para gestionar la música y los efectos de sonido durante la partida.
+El proyecto también incluye una clase específica para gestionar la música de fondo y los efectos de sonido durante la partida.
+
+## 📸 Capturas del juego
+
+### Partida en funcionamiento
+
+![Partida del juego de naves](screenshots/partida.png)
+
+### Selección de dificultad
+
+![Selección de dificultad](screenshots/dificultad.png)
+
+### Pantalla de fin de partida
+
+![Pantalla de Game Over](screenshots/gameover.png)
 
 ## ▶️ Cómo ejecutar el proyecto
 
@@ -43,8 +57,10 @@ El proyecto también incluye una clase específica para gestionar la música y l
 
 ## 📚 Contexto académico
 
-Proyecto desarrollado durante el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM).
+Proyecto desarrollado durante el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
 ## 👤 Autor
 
-Alberto Cabadiana
+**Alberto Cabadiana**
+
+[LinkedIn](https://www.linkedin.com/in/alberto-cabadiana-b298212a7)
